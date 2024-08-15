@@ -16,7 +16,7 @@ dotnet run
 ```
 
 ## Step 2 start frontend
-In a new terminal from root folder run the command:
+The frontend is made with nextjs and can be started by running the following commands in a new terminal:
 
 ```sh
 cd PicoPublish_Frontend
