@@ -1,3 +1,5 @@
+Note: The relevant files are located in 'PicoPublish_backend/Models' as well as the program.cs file
+
 # How to start
 
 ## Step 1: start server
@@ -41,6 +43,3 @@ This is how a product will look like after clicking the "edit" button. Click con
 
 ### Add product
 ![image](./add_product.png)
-
-Note:
-The relevant files are located in 'PicoPublish_backend/Models' as well as the program.cs file
