@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emil/Documents/programming/PicoPublish/PicoPublish_Backend/PicoPublish.csproj": {}
+    "/home/emil/Documents/programming/PicoPublish_Full/PicoPublish_Backend/PicoPublish.csproj": {}
   },
   "projects": {
-    "/home/emil/Documents/programming/PicoPublish/PicoPublish_Backend/PicoPublish.csproj": {
+    "/home/emil/Documents/programming/PicoPublish_Full/PicoPublish_Backend/PicoPublish.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emil/Documents/programming/PicoPublish/PicoPublish_Backend/PicoPublish.csproj",
+        "projectUniqueName": "/home/emil/Documents/programming/PicoPublish_Full/PicoPublish_Backend/PicoPublish.csproj",
         "projectName": "PicoPublish",
-        "projectPath": "/home/emil/Documents/programming/PicoPublish/PicoPublish_Backend/PicoPublish.csproj",
+        "projectPath": "/home/emil/Documents/programming/PicoPublish_Full/PicoPublish_Backend/PicoPublish.csproj",
         "packagesPath": "/home/emil/.nuget/packages/",
-        "outputPath": "/home/emil/Documents/programming/PicoPublish/PicoPublish_Backend/obj/",
+        "outputPath": "/home/emil/Documents/programming/PicoPublish_Full/PicoPublish_Backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emil/.nuget/NuGet/NuGet.Config"
