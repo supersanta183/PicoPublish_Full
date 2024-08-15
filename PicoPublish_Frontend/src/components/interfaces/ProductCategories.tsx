@@ -1,0 +1,1 @@
+export const ProductCategories = ["HAMMER", "NAIL",];

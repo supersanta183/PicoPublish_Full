@@ -1,0 +1,6 @@
+@PicoPublish_HostAddress = http://localhost:5090
+
+GET {{PicoPublish_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
