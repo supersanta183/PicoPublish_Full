@@ -3,8 +3,7 @@ Note: The relevant files are located in 'PicoPublish_backend/Models' as well as 
 # How to start
 
 ## Step 1: start server
-
-from root folder run the command:
+The server is made with asp .net web api and can be started by running the following commands from the root folder:
 
 ```sh
 cd PicoPublish_Backend
@@ -16,7 +15,7 @@ dotnet run
 ```
 
 ## Step 2 start frontend
-The frontend is made with nextjs and can be started by running the following commands in a new terminal:
+The frontend is made with nextjs and can be started by running the following commands in a new terminal in the root folder:
 
 ```sh
 cd PicoPublish_Frontend
