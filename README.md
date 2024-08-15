@@ -28,4 +28,16 @@ npm run dev
 
 The application should now be running on 'localhost:3000'. If not, you might have to restart the frontend.
 
+### Frontpage
 ![image](./frontpage.png)
+
+### Show products
+![image](./show_products.png)
+![image](./show_products_end.png)
+
+#### Show products edit
+This is how a product will look like after clicking the "edit" button. Click confirm to edit the product on the server.
+![image](./show_products_edit.png)
+
+### Add product
+![image](./add_product.png)
