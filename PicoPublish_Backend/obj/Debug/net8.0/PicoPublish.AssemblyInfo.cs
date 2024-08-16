@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PicoPublish")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd335536f7a196b0aed3400714b00c43addddf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+879ca44ee7ffb5a8beb76125e979f76ab1cc63e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PicoPublish")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PicoPublish")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

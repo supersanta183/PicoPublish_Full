@@ -65,6 +65,7 @@ app.MapDelete("/products/{id}", (Guid id) =>
     {
         return Results.NotFound();
     }
+    
     productList.Remove(product);
     return Results.Ok();
 })

@@ -6,15 +6,11 @@ import IProduct from "@/components/interfaces/IProduct";
 import { ProductCategories } from "@/components/interfaces/ProductCategories";
 
 const page = () => {
-  const [Id, setId] = useState<null | number>(null);
   const [name, setName] = useState<string>("");
   const [description, setDescription] = useState<string>("");
   const [type, setType] = useState<string>("Hover");
 
   const tryMakeProductObj = (): IProduct | null => {
-    if (!Id) {
-      return null;
-    }
     if (name === "") {
       return null;
     }
@@ -26,7 +22,6 @@ const page = () => {
     }
 
     let newProduct: IProduct = {
-      id: Id,
       name: name,
       description: description,
       type: type,
@@ -94,13 +89,6 @@ const page = () => {
         placeholder="Description"
         className="input input-bordered w-full max-w-xs"
         onChange={(e) => setDescription(e.target.value)}
-      />
-
-      <input
-        type="number"
-        placeholder="ID"
-        className="input input-bordered w-full max-w-xs"
-        onChange={(e) => setId(Number(e.target.value))}
       />
 
       <div className="btn" onClick={() => handleSubmit()}>
